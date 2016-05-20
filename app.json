@@ -1,0 +1,26 @@
+{
+  "id": "jilles.homey.433",
+  "version": "0.0.1",
+  "compatibility": "0.x || 1.x",
+  "category": [ "appliances", "lights" ],
+  "name": {
+    "en": "jilles433",
+    "nl": "jilles433"
+  },
+  "description": {
+    "en": "Give Homey the ability to see and control 433 devices",
+    "nl": "Laat Homey 433 dieveces zien en aansturen"
+  },
+  "author": {
+    "name": "Jilles Miedema"
+  },
+  "images": {
+    "large": "./assets/images/large.jpg",
+    "small": "./assets/images/small.jpg"
+  },
+  "permissions": [
+    "homey:wireless:433",
+    "homey:wireless:868"
+  ]
+ 
+}

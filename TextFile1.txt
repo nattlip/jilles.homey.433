@@ -1,0 +1,17 @@
+
+cd C:\Users\Jilles\Documents\Visual Studio 2015\Projects\nl.jilles.firstest\nl.jilles.firstest
+cd C:\Users\Jilles\Documents\Visual Studio 2015\Projects\nl.jilles.firstest\nl.jilles.firstest\animate
+
+
+athom login
+athom project --create
+athom project --run
+
+athom ledring --run C:\Users\Jilles\Documents\visual studio 2015\Projects\nl.jilles.firstest\nl.jilles.firstest\animate\myanim.js
+
+cd C:\Users\Jilles\Documents\visual studio 2015\Projects\homey 433\homey 433\jilles.homey.433
+
+
+cd C:\Users\Jilles\Documents\visual studio 2015\Projects\HomeyPlugwiseSource\HomeyPlugwiseSource\com.jilles.plugwisesource
+
+cls clear screen
